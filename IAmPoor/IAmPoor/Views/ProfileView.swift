@@ -21,6 +21,7 @@ struct ProfileView: View {
                     TextField("年収", text: $salary)
                     
                 }
+                PickerForm()
             }
             .navigationTitle("Profile")
         }
