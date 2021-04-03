@@ -103,6 +103,7 @@
 		A557864025A5EE6200F5778B /* IAmPoor */ = {
 			isa = PBXGroup;
 			children = (
+				A5CCE6C92619F67B0012754C /* Model */,
 				A557866F25A5EF1700F5778B /* Views */,
 				A557864125A5EE6200F5778B /* IAmPoorApp.swift */,
 				A557864525A5EE6200F5778B /* Assets.xcassets */,
@@ -156,6 +157,13 @@
 				A557868E25A7547000F5778B /* PickerForm.swift */,
 			);
 			path = FormParts;
+			sourceTree = "<group>";
+		};
+		A5CCE6C92619F67B0012754C /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
