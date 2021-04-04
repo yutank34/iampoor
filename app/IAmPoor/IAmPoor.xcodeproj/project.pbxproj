@@ -17,6 +17,7 @@
 		A557868125A5F26E00F5778B /* RankingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A557868025A5F26E00F5778B /* RankingView.swift */; };
 		A557868625A5F3BD00F5778B /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A557868525A5F3BD00F5778B /* ProfileView.swift */; };
 		A557868F25A7547000F5778B /* PickerForm.swift in Sources */ = {isa = PBXBuildFile; fileRef = A557868E25A7547000F5778B /* PickerForm.swift */; };
+		A5CCE6D12619FE7A0012754C /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CCE6D02619FE7A0012754C /* User.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		A557868025A5F26E00F5778B /* RankingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RankingView.swift; sourceTree = "<group>"; };
 		A557868525A5F3BD00F5778B /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		A557868E25A7547000F5778B /* PickerForm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerForm.swift; sourceTree = "<group>"; };
+		A5CCE6D02619FE7A0012754C /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -162,6 +164,7 @@
 		A5CCE6C92619F67B0012754C /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				A5CCE6D02619FE7A0012754C /* User.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -301,6 +304,7 @@
 				A557868625A5F3BD00F5778B /* ProfileView.swift in Sources */,
 				A557867C25A5EF5C00F5778B /* TopView.swift in Sources */,
 				A557864225A5EE6200F5778B /* IAmPoorApp.swift in Sources */,
+				A5CCE6D12619FE7A0012754C /* User.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
